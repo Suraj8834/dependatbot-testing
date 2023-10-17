@@ -62,7 +62,7 @@
     "lodash": "4.17.21",
     "match-sorter": "^2.2.3",
     "metismenu": "^2.5.0",
-    "moment": "2.22.2",
+    "moment": "2.29.4",
     "react": "^0.14.6",
     "react-apexcharts": "^1.4.0",
     "react-bootstrap": "^0.28.3",
