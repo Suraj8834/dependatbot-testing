@@ -45,7 +45,7 @@
     "animate.css": "^3.1.1",
     "apexcharts": "^3.35.3",
     "arraybuffer-to-string": "1.0.2",
-    "axios": "0.21.1",
+    "axios": "0.21.2",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "3.3.7",
     "classnames": "^2.2.6",
